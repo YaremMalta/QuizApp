@@ -20,8 +20,11 @@ A simple JavaScript quiz application consisting of 10 questions. Users answer ea
 ## Setup / Installation
 1.Clone the repository or download it as a ZIP file:
 git clone https://github.com/YaremMalta/QuizApp.git
+
 2.Open the index.html file in your browser.
+
 3.Start using the application.
+
 
 
 
