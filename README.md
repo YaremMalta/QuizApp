@@ -25,6 +25,17 @@ A simple JavaScript quiz application consisting of 10 questions. Users answer ea
 2. Open the `index.html` file in your browser.  
 3. Start using the application.
 
+## Screenshots
+
+![Quiz Start](images/quiz-start.png)
+![Question 1](images/quiz-question1.png)
+![Question 2](images/quiz-question2.png)
+![Question 3](images/quiz-question3.png)
+![Question 4](images/quiz-question4.png)
+![Quiz Finished / Final Score](images/quiz-finish.png)
+
+
+
 
 
 
